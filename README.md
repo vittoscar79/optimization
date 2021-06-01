@@ -1,0 +1,2 @@
+# optimization
+fivem optimize
